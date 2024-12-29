@@ -33,5 +33,5 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "rubyzip", ">= 2.3"
-  spec.add_dependency "sqlite3", "~> 1.3"
+  spec.add_dependency "sqlite3", "~> 2.1"
 end
